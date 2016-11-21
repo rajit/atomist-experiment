@@ -1,0 +1,16 @@
+# generator info
+name: Simple Lein Clojure Project
+group: atomist-project-templates
+artifact: simple-lein-project
+version: 1.0.12
+
+# backing git repo
+repo: atomist-project-templates/simple-lein-project.git
+branch: master
+sha: 89bd0d7
+
+# parameter values
+project_description: Experimenting with Atomist
+project_name: atomist-experiment
+package_name: dasexperiment
+
